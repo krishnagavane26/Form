@@ -1,0 +1,81 @@
+
+body {
+    background: url('https://assets.entrepreneur.com/content/3x2/2000/1407245226-10-must-see-videos-business-creativity-success.jpg');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat ;
+    background-size: 100%;
+}
+#b {
+    height: 500px;
+    width: 400px;
+    border: 3px solid white;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+    filter:opacity(100px);
+}
+#fr {
+
+}
+#Em {
+    height: 25px;
+    margin-top:200px ;
+    margin-left: 90px;
+    width: 200px ;
+    
+}
+#Ps {
+    margin-top: 20px;
+    margin-left: 90px;
+    height: 25px;
+    width: 200px;
+}
+#Btn {
+    margin-left: 90px;
+    margin-top: 15px;
+    height: 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 10px;
+
+}
+#Bt {
+    margin-left: 20px;
+    margin-top: 15px;
+    height: 30px;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 10px;
+}
+#Bt:hover {
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+#Btn:hover {
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
+#Em:hover {
+    border: solid 2px rgb(119, 200, 157);
+}
+#Ps:hover {
+    border: solid 2px rgb(119, 200, 157);
+}
+#pink {
+    border: 2px solid white;
+    margin-top:30px ;
+    width: 300px;
+}
+#cr {
+    margin-left: 60px;
+    text-decoration: none;
+    color: lightskyblue;
+}
+#cr:hover {
+    color: white;
+    cursor: pointer;
+    font-size: 1em;
+}
